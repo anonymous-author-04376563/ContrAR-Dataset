@@ -20,7 +20,7 @@ This dataset contains augmented videos collected to evaluate systems for detecti
 The ContrAR dataset serves as a benchmark for evaluating systems that detect contradictory virtual content attacks in AR applications. These systems are crucial for protecting user safety and experience. We evaluated 11 vision–language–model–based detection systems on ContrAR. The results show that although state-of-the-art VLMs achieve reasonable detection accuracy, their performance still leaves room for improvement, indicating that the challenge posed by our dataset is non-trivial.
 
 <figure>
-  <img src="imgs/result_all.png" alt="Description" width="1200"/>
+  <img src="imgs/results.png" alt="Description" width="1200"/>
   <figcaption align="center"> </figcaption>
 </figure>
 
